@@ -124,7 +124,7 @@ cache = false
 # ex: connection = close
 #     connection = keep-alive
 #
-connection = close
+connection = keep-alive
 
 #
 # Default number of simulated  concurrent users
